@@ -1,6 +1,6 @@
 # SQL Practice
 
-![SQL Logo](https://www.sql.org/images/SQL-Logo.png)
+![SQL Logo](https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png)
 
 Welcome to my "SQL Practice" repository! 🚀
 
