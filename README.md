@@ -28,6 +28,4 @@ Whether you're a seasoned SQL pro or just starting your SQL adventure, this repo
 
 Thank you for being a part of my SQL journey. Let's continue to query, analyze, and discover the power of data together!
 
-![SQL Query](https://media.giphy.com/media/hs4FzFw4V9ekM/giphy.gif)
-
 **Happy Querying!** 📊🔍
